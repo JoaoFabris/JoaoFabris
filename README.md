@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO,+my+name+is+João+Fabris;I'm+from+Brazil;I'm+28+years+old;Full-Stack+Developer&center=true&font=babylonica&color=228B22&size=22)](https://git.io/typing-svg)
 
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joaofabris&bg_color=0d1117&color=228B22&line=228B22&point=696969&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
@@ -9,8 +10,8 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaofabris&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=32CD32&bg_color=0d1117" alt="João Fabris github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofabris&layout=compact&hide_border=true&title_color=32CD32&text_color=32CD32&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaofabris&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=32CD32&bg_color=0d1117" alt="João Fabris github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofabris&hide_progress=truet&hide_border=true&title_color=32CD32&text_color=32CD32&bg_color=0d1117" />
   
   <div align="center"> 
 <a href="https://instagram.com/joaofabris21" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
