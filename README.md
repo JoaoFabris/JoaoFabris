@@ -54,8 +54,8 @@
 
 <div>
 	<h3>Projects</h3>
-	<h1>https://hotel-reservation-full-stack.vercel.app/</h1>
-	<h1>https://myprojectstore.vercel.app/</h1>
+	<p>https://hotel-reservation-full-stack.vercel.app/</hp>
+	<p>https://myprojectstore.vercel.app/</p>
 </div>
 		<div align="center">
 <br><p align="centre"><b>Visitors Count:</b></p>
