@@ -52,7 +52,7 @@
 	<h4 align="center">Problem solving, Communication, Collaboration, Good Listener, Creative, Time Management, Challenges and Leadership. </h4>
 </div>
 
-<div>
+<div align="center">
 	<h3>Projects</h3>
 	<p>https://hotel-reservation-full-stack.vercel.app/</hp>
 	<p>https://myprojectstore.vercel.app/</p>
