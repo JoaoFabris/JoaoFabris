@@ -42,7 +42,7 @@
  <details align="center">
     <summary align="center"><h4>All My Technical Skills</h4></summary>
 <div id='lojc' align="center">
-|<div id='lojc' align="center"><span>JavaScript🔸SQL🔸TypeScript🔸NodeJS</span></div>|<div id='lojc' align="center"><span>React🔸Jest🔸Express</span></div>|<div id='lojc' align="center"><span>Git🔸Local Storage🔸HTML🔸CSS🔸Bootstrap🔸React Router🔸React Testing Library🔸Redux🔸Context API🔸Docker🔸Docker Compose🔸MySQL🔸ORM (Sequelize)🔸NoSQL🔸MongoDB🔸ODM (Mongoose)🔸API🔸Mocks/Stub</span></div>|<div id='lojc' align="center">
+|<div id='lojc' align="center"><span>JavaScript🔸SQL🔸TypeScript🔸NodeJS</span></div>|<div id='lojc' align="center"><span>React🔸Jest🔸Express</span></div>|<div id='lojc' align="center"><span>Git🔸Local Storage🔸HTML🔸CSS🔸Bootstrap🔸React Router🔸React Testing Library🔸Redux🔸Context API🔸Docker🔸Docker Compose🔸MySQL🔸ORM (Sequelize)🔸NoSQL🔸MongoDB🔸ODM (Mongoose)🔸Supabase🔸PostgreSQL🔸API🔸Mocks/Stub</span></div>|<div id='lojc' align="center">
   </details>
 
 <div>
