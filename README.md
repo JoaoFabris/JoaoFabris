@@ -2,7 +2,7 @@
 
 <div align="center">
 	
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO,+my+name+is+João+Fabris;I'm+from+Brazil;I'm+29+years+old;Full-Stack+Developer&center=true&font=babylonica&color=228B22&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO,+my+name+is+João+Fabris;I'm+from+Brazil;Full-Stack+Developer&center=true&font=babylonica&color=228B22&size=22)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
