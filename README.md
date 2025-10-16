@@ -59,7 +59,23 @@
 <details align="center">
   <summary><h4>All My Technical Skills</h4></summary>
   <div align="center">
-    JavaScript 🔸 SQL 🔸 TypeScript 🔸 NodeJS 🔸 React 🔸 Jest 🔸 Express 🔸 Git 🔸 Local Storage 🔸 HTML 🔸 CSS 🔸 Bootstrap 🔸 React Router 🔸 React Testing Library 🔸 Redux 🔸 Context API 🔸 Docker 🔸 Docker Compose 🔸 MySQL 🔸 ORM (Sequelize) 🔸 NoSQL 🔸 MongoDB 🔸 ODM (Mongoose) 🔸 Supabase 🔸 PostgreSQL 🔸 API 🔸 Mocks/Stub
+
+**Frontend:** React.js • React Native • Expo • Next.js • Tailwind CSS • Styled Components • Context API • Redux • React Router • React Testing Library • Jest • Bootstrap • HTML5 • CSS3  
+
+**Backend:** Node.js • Express.js • NestJS • RESTful APIs • Authentication (JWT / OAuth) • WebSockets • MVC Architecture • API Integration  
+
+**Database & Data Tools:** MySQL • PostgreSQL • MongoDB • Mongoose (ODM) • Sequelize (ORM) • Supabase • Prisma • SQL • NoSQL  
+
+**DevOps & Infrastructure:** Docker • Docker Compose • AWS (EC2, S3) • CI/CD • Nginx • Linux (Ubuntu / WSL2)  
+
+**Data Analytics & BI:** Power BI • Excel (Dashboards, VBA, ETL) • Data Modeling • Financial Data Analysis  
+
+**Testing & Code Quality:** Jest • Mocha • ESLint • Prettier • Unit & Integration Tests  
+
+**Version Control & Collaboration:** Git • GitHub • Git Flow • Agile (Scrum / Kanban) • Jira • Trello  
+
+**Other Tools & Technologies:** REST • JSON • Postman • Insomnia • VSCode • Figma • Draw.io (Diagrams) • Markdown • Bash  
+
   </div>
 </details>
 
