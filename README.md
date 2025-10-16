@@ -33,12 +33,12 @@
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-Redux.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![SQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Nest]([https://img.shields.io/badge/-Nest.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB))&nbsp;
-![Expo]([https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117])&nbsp;
+![Nest](https://img.shields.io/badge/nestjs-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)&nbsp;
+![Expo](https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white&style=for-the-badge)&nbsp;
     </div>
 <br>
  <details align="center">
