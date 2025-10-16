@@ -67,7 +67,9 @@
 		<div align="center">
 <br><p align="centre"><b>Visitors Count:</b></p>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joaofabris}/count.svg" /></p> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joaofabris&label=Visitors&color=228B22&style=for-the-badge" alt="Profile views" />
+</p>
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer"/>
