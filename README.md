@@ -6,6 +6,15 @@
 
 </div>
 
+### 👋 About Me
+💻 Full Stack Developer passionate about building modern web and mobile applications.  
+🎮 Passionate about technology, games, and creating efficient systems that solve real-world problems.  
+🚀 Always learning new tools and improving clean code, architecture, and performance.
+
+<p align="center">
+🖥️ Frontend • ⚙️ Backend • ☁️ DevOps • 📊 Data Analysis
+</p>
+
 <div align="center">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaofabris&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -40,8 +49,10 @@
 <p align="center">
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117)
+![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=2D3748&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
 ![React](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
+![Power BI](https://img.shields.io/badge/-Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=0D1117)
 ![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
 ![Expo](https://img.shields.io/badge/-Expo-0D1117?style=for-the-badge&logo=expo&logoColor=white&labelColor=0D1117)
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117)
