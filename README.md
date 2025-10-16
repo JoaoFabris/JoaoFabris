@@ -29,16 +29,16 @@
  <h3 align="center"> Main Skill: </h3>
     <div align="center">
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![SQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Nest](https://img.shields.io/badge/nestjs-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)&nbsp;
-![Expo](https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white&style=for-the-badge)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)&nbsp;
+![Expo](https://img.shields.io/badge/-Expo-0D1117?style=for-the-badge&logo=expo&logoColor=white&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&logoColor=68A063&labelColor=0D1117)&nbsp;
+![NestJS](https://img.shields.io/badge/-Nest.JS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
     </div>
 <br>
  <details align="center">
