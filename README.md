@@ -1,108 +1,53 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=300&section=header&text=WELCOME!&fontSize=90&animation=fadeIn" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO,+my+name+is+João+Fabris;I'm+from+Brazil;Full-Stack+Developer&center=true&font=babylonica&color=228B22&size=22)](https://git.io/typing-svg)
+# João Fabris
+
+**Full Stack TypeScript Developer · React Native (Expo) + NestJS**
+
+Niterói, Brazil · Open to remote opportunities
+
+<a href="https://www.linkedin.com/in/joaofabris"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
+<a href="mailto:jvfabris21@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
 
 </div>
 
-### 👋 About Me
-💻 Full Stack Developer passionate about building modern web and mobile applications.  
-🎮 Passionate about technology, games, and creating efficient systems that solve real-world problems.  
-🚀 Always learning new tools and improving clean code, architecture, and performance.
+---
 
-<p align="center">
-🖥️ Frontend • ⚙️ Backend • ☁️ DevOps • 📊 Data Analysis
+### About me
+
+I build mobile and web products end to end, from the database to the interface.
+
+- **Now:** building, as a freelancer, a complete mobile app (Expo + NestJS + PostgreSQL) being prepared for the App Store and Google Play: secure authentication, ~1,100 automated tests, CI and LGPD (Brazil's GDPR) compliance.
+- **Before:** backend developer at Crosoften (Node.js, NestJS, Prisma, MySQL), where I cut response times of critical APIs by 30%.
+- **Studying:** Systems Analysis and Development (expected 2027) · Full Stack training at Trybe.
+
+### Tech stack
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+<img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+<img src="https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+<img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS">
+<img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+<img src="https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest">
+<img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
 </p>
 
-<div align="center">
+**Also worked with:** Fastify, Express, MySQL, Supabase, Tailwind CSS, React Query, Redux Toolkit, AWS S3, Nginx, EAS Build, Vercel AI SDK (OpenAI, Gemini).
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaofabris&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Featured projects
 
-</div>
+| Project | What it is | Stack |
+|---|---|---|
+| [Gym Personal Trainer — API](https://github.com/JoaoFabris/gym-personal-trainer) | AI-generated workout plans, authentication and progress statistics | Fastify, Prisma, PostgreSQL, Vercel AI SDK |
+| [Gym Personal Trainer — Web](https://github.com/JoaoFabris/frontend-gym-personal-trainer) | Mobile-first interface with streaming AI chat | Next.js, Tailwind CSS, shadcn/ui |
+| [Digital Nomad](https://github.com/JoaoFabris/digital-nomad-app) | Mobile app that gathers cities for digital nomads | React Native, Expo, EAS |
 
-<div align="center">
-	
-[![trophy](https://github-profile-trophy.vercel.app/?username=joaofabris&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)	
+### What I care about
 
-</div>
-
-<div align="center">  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joaofabris&show_icons=true&hide_border=true&theme=merko&layout=compact" alt="João Fabris github stats" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofabris&layout=compact&theme=merko&hide_border=true&hide_progress=true" alt="João Fabris most used languages" />
-</div>
-
-<br>
-
-<div align="center"> 
-  <a href="mailto:jvfabris21@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117">
-  </a>
-  <a href="https://www.linkedin.com/in/joaofabris" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117">
-  </a>
-</div>
-
----
-
-### 🧠 Main Skills
-<p align="center">
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117)
-![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=2D3748&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
-![React](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
-![Power BI](https://img.shields.io/badge/-Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=0D1117)
-![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
-![Expo](https://img.shields.io/badge/-Expo-0D1117?style=for-the-badge&logo=expo&logoColor=white&labelColor=0D1117)
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC&labelColor=0D1117)
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&logoColor=68A063&labelColor=0D1117)
-![NestJS](https://img.shields.io/badge/-Nest.JS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E&labelColor=0D1117)
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117)
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)
-
-</p>
-
----
-
-<details align="center">
-  <summary><h4>All My Technical Skills</h4></summary>
-  <div align="center">
-
-**Frontend:** React.js • React Native • Expo • Next.js • Tailwind CSS • Styled Components • Context API • Redux • React Router • React Testing Library • Jest • Bootstrap • HTML5 • CSS3  
-
-**Backend:** Node.js • Express.js • NestJS • RESTful APIs • Authentication (JWT / OAuth) • WebSockets • MVC Architecture • API Integration  
-
-**Database & Data Tools:** MySQL • PostgreSQL • MongoDB • Mongoose (ODM) • Sequelize (ORM) • Supabase • Prisma • SQL • NoSQL  
-
-**DevOps & Infrastructure:** Docker • Docker Compose • AWS (EC2, S3) • CI/CD • Nginx • Linux (Ubuntu / WSL2)  
-
-**Data Analytics & BI:** Power BI • Excel (Dashboards, VBA, ETL) • Data Modeling • Financial Data Analysis  
-
-**Testing & Code Quality:** Jest • Mocha • ESLint • Prettier • Unit & Integration Tests  
-
-**Version Control & Collaboration:** Git • GitHub • Git Flow • Agile (Scrum / Kanban) • Jira • Trello  
-
-**Other Tools & Technologies:** REST • JSON • Postman • Insomnia • VSCode • Figma • Draw.io (Diagrams) • Markdown • Bash  
-
-  </div>
-</details>
-
----
-
-<div align="center">
-  <h3>My Soft Skills:</h3>
-  <img src="https://cdn-icons-png.flaticon.com/512/6171/6171939.png" width="50px" height="50px" />
-  <h4>Problem Solving • Communication • Collaboration • Good Listener • Creativity • Time Management • Leadership</h4>
-</div>
-
----
-
-<div align="center">
-  <p><b>Visitors Count:</b></p>
-  <img src="https://komarev.com/ghpvc/?username=joaofabris&label=Visitors&color=228B22&style=for-the-badge" alt="Profile views" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer" />
+Secure authentication, automated tests on every change, small reviewed commits, and using AI tools (Claude Code) with guardrails instead of blind trust.
