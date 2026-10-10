@@ -2,7 +2,7 @@
 
 # João Fabris
 
-**Full Stack TypeScript Developer · React Native (Expo) + NestJS**
+**Full Stack TypeScript Developer · NextJs - React Native (Expo) - NestJS**
 
 Niterói, Brazil · Open to remote opportunities
 
