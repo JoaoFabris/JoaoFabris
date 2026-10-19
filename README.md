@@ -18,7 +18,7 @@ Niterói, Brazil · Open to remote and hybrid roles
 I build mobile and web products end to end, from the database to the interface.
 
 - **Now:** freelance developer, building solo a complete mobile app (Expo + NestJS + PostgreSQL) for App Store and Google Play release, with secure authentication, 2,000+ automated tests, CI and LGPD (Brazil's GDPR) compliance. **[Read the case study →](https://github.com/JoaoFabris/abc-case-study)**
-- **Before:** backend developer at Crosoften (Node.js, NestJS, Prisma, MySQL), where I cut response times of critical APIs by 30%.
+- **Before:** backend developer at Crosoften, building REST APIs with Node.js, NestJS, Prisma and MySQL in a microservices architecture.
 - **Background:** degree in Production Engineering, which shaped how I think about processes and trade-offs. Full Stack program at Trybe, now studying Systems Analysis and Development (expected 2027).
 
 ### Tech stack
