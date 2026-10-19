@@ -44,6 +44,7 @@ I build mobile and web products end to end, from the database to the interface.
 
 | Project | What it is | Stack |
 |---|---|---|
+| [ABC — Case Study](https://github.com/JoaoFabris/abc-case-study) | Digital business card app built solo for a client: QR exchange, refresh token rotation, LGPD account deletion, 2,000+ tests | React Native, Expo, NestJS, Prisma, PostgreSQL |
 | [Gym Personal Trainer — API](https://github.com/JoaoFabris/gym-personal-trainer) | AI-generated workout plans, authentication and progress statistics | Fastify, Prisma, PostgreSQL, Vercel AI SDK |
 | [Gym Personal Trainer — Web](https://github.com/JoaoFabris/frontend-gym-personal-trainer) | Mobile-first interface with streaming AI chat | Next.js, Tailwind CSS, shadcn/ui |
 | [Digital Nomad](https://github.com/JoaoFabris/digital-nomad-app) | Mobile app that gathers cities for digital nomads | React Native, Expo, EAS |
